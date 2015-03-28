@@ -1,0 +1,43 @@
+{
+  "name": "react-ismorphic-hn",
+  "version": "0.1.0",
+  "description": "An isomorphic implementation of Hacker News made with react and marty.js.",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moretti/react-ismorphic-hn.git"
+  },
+  "scripts": {
+    "devserver": "node scripts/devserver.js",
+    "build": "node scripts/build.js",
+    "start": "node dist/index.js"
+  },
+  "author": "Paolo Moretti",
+  "license": "WTFPL",
+  "dependencies": {
+    "URIjs": "1.14.2",
+    "babel": "4.7.16",
+    "cli-table": "0.3.1",
+    "ejs": "2.3.1",
+    "express": "4.12.3",
+    "firebase": "2.2.3",
+    "immutable": "3.7.0",
+    "lodash": "3.6.0",
+    "marty": "0.9.4",
+    "marty-express": "0.2.0",
+    "react": "0.13.1",
+    "react-router": "0.13.2",
+    "react-timeago": "2.0.2"
+  },
+  "devDependencies": {
+    "babel-core": "4.7.16",
+    "babel-eslint": "2.0.2",
+    "babel-loader": "4.2.0",
+    "eslint": "0.18.0",
+    "fs-extra": "0.17.0",
+    "open": "0.0.5",
+    "react-hot-loader": "1.2.4",
+    "webpack": "1.7.3",
+    "webpack-dev-server": "1.7.0"
+  }
+}
