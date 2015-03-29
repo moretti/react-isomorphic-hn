@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moretti/react-ismorphic-hn.git"
+    "url": "https://github.com/moretti/react-isomorphic-hn.git"
   },
   "scripts": {
     "devserver": "node scripts/devserver.js",
