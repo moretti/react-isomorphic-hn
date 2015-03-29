@@ -3,6 +3,8 @@
 An isomorphic implementation of
 [Hacker News](https://news.ycombinator.com) made with [react](http://facebook.github.io/react) and [marty.js](https://github.com/jhollingworth/marty).
 
+>**Isomorphic JavaScript**: shared JavaScript that can run both client-side and server-side.
+
 ![react-hn screenshot](https://github.com/moretti/react-isomorphic-hn/raw/master/screenshot.png)
 
 ## Building
